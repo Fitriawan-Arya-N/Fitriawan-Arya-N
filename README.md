@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi there, I'm Fitriawan 👋
+- 🌱 I've interest on Cloud and DevOps
+- 📫 Feel free to reach me on:
+    - Linkedin : linkedin.com/in/fitriawanaryanugraha
+    - Gmail : nugrahaaryaa17@gmail.com
 <!--
 **Fitriawan-Arya-N/Fitriawan-Arya-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
